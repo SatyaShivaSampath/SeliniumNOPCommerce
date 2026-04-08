@@ -1,5 +1,5 @@
 import pytest
-from pages3.login_page import LoginPage
+from pages.pages3.login_page import LoginPage
 
 @pytest.mark.order(6)
 @pytest.mark.smoke
