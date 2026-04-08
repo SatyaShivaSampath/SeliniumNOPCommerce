@@ -1,10 +1,10 @@
 import pytest
 import time
-from pages3.login_page import LoginPage
-from pages3.address_page import AddressPage
-from pages3.checkout_page import CheckoutPage
-from pages3.product_page import ProductPage
-from pages3.address_page import AddressPage
+from pages.pages3.login_page import LoginPage
+from pages.pages3.address_page import AddressPage
+from pages.pages3.checkout_page import CheckoutPage
+from pages.pages3.product_page import ProductPage
+from pages.pages3.address_page import AddressPage
 
 @pytest.mark.order(10)
 @pytest.mark.smoke
