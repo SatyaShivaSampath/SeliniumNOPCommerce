@@ -1,5 +1,5 @@
 import pytest
-from pages.navigation_page import NavigationPage
+from pages.pages5.navigation_page import NavigationPage
  
  
 class TestNavigationLinks:
