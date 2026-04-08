@@ -1,4 +1,4 @@
-from pages2.check_out_as_a_guest_page import place_order_as_a_guest_user
+from pages.pages2.check_out_as_a_guest_page import place_order_as_a_guest_user
 import time
 
 def test_place_order_register(driver):
