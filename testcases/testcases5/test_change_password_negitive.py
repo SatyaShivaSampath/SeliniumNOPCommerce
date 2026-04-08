@@ -1,5 +1,5 @@
 import pytest
-from pages.change_password_page import ChangePasswordPage
+from pages.pages5.change_password_page import ChangePasswordPage
  
  
 class TestChangePasswordNegative:
