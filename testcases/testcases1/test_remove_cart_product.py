@@ -1,7 +1,7 @@
 import time
 
 import pytest
-from pages.page_add_to_cart import PageAddToCart
+from pages.pages1.page_add_to_cart import PageAddToCart
 
 class TestRemoveCartProduct:
     def test_remove_cart_product(self, driver):
