@@ -1,5 +1,5 @@
-from pages2.my_account_page_verify import login_page_and_my_acc_verify
-from pages2.product_review_page import ProductReviewPage
+from pages.pages2.my_account_page_verify import login_page_and_my_acc_verify
+from pages.pages2.product_review_page import ProductReviewPage
 import pytest
 
 @pytest.mark.regression
