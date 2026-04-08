@@ -1,4 +1,4 @@
-from pages2.my_account_page_verify import login_page_and_my_acc_verify
+from pages.pages2.my_account_page_verify import login_page_and_my_acc_verify
 import pytest
 @pytest.mark.order(1)
 @pytest.mark.regression
