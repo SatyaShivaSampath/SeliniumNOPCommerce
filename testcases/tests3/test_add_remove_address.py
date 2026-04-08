@@ -1,6 +1,6 @@
 import pytest
-from pages3.pages.login_page import LoginPage
-from pages3.pages.address_page import AddressPage
+from pages.pages3.login_page import LoginPage
+from pages.pages3.address_page import AddressPage
 
 @pytest.mark.order(8)
 @pytest.mark.smoke
