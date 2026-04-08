@@ -1,5 +1,5 @@
 import pytest
-from pages2.place_order_register_page import place_order_register_user
+from pages.pages2.place_order_register_page import place_order_register_user
 import time
 from pages2.check_out_as_a_guest_page import place_order_as_a_guest_user
 from pages2.page_for_to_verify_cart_without_clicking_same_as_adress import place_order_with_out_click_same_adrress
