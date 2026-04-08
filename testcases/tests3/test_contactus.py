@@ -1,6 +1,6 @@
 import pytest
 from selenium.webdriver.common.by import By
-from pages3.contact_page import ContactPage
+from pages.pages3.contact_page import ContactPage
 
 @pytest.mark.order(5)
 @pytest.mark.regression
