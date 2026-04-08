@@ -1,5 +1,5 @@
 import pytest
-from pages.checkout_page import CheckoutPage
+from pages.pages5.checkout_page import CheckoutPage
 
 
 class TestShippingAddressComplete:
