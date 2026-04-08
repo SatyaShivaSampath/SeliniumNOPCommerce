@@ -1,6 +1,6 @@
 import pytest
 import random
-from pages.subscription_page import SubscriptionPage
+from pages.pages5.subscription_page import SubscriptionPage
  
  
 class TestSubscription:
