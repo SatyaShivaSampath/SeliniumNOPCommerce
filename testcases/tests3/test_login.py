@@ -1,6 +1,6 @@
 import pytest
 from selenium.webdriver.common.by import By
-from pages3.login_page import LoginPage
+from pages.pages3.login_page import LoginPage
 
 @pytest.mark.order(3)
 @pytest.mark.smoke
