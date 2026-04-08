@@ -1,5 +1,5 @@
 import pytest
-from pages3.currency_page import CurrencyPage
+from pages.pages3.currency_page import CurrencyPage
 
 @pytest.mark.order(7)
 @pytest.mark.smoke
