@@ -1,5 +1,5 @@
-from pages2.my_account_page_verify import login_page_and_my_acc_verify
-from pages2.wishlist_page import WishlistPage
+from pages.pages2.my_account_page_verify import login_page_and_my_acc_verify
+from pages.pages2.wishlist_page import WishlistPage
 import pytest, time
 
 @pytest.mark.regression
