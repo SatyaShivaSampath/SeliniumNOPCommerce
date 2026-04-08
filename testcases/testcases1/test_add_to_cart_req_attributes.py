@@ -2,7 +2,7 @@
 import time
 
 import pytest
-from pages.page_add_to_cart import PageAddToCart
+from pages.page1.page_add_to_cart import PageAddToCart
 
 class TestAddComputerWithAttributes:
 
